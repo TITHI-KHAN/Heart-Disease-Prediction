@@ -6,12 +6,6 @@ The original dataset of nearly 300 variables was reduced to just about 18 variab
 
 The dataset contains 18 variables (9 booleans, 5 strings and 4 decimals). In machine learning projects, "HeartDisease" can be used as the explonatory variable, but note that the classes are heavily unbalanced.
 
-**Related work:** 
-
-https://github.com/kamilpytlak/heart-condition-checker
-
-https://github.com/kamilpytlak/data-analyses/tree/main/heart-disease-prediction
-
 1. **HeartDisease**: Respondents that have ever reported having coronary heart disease (CHD) or myocardial infarction (MI)
 
 2. **BMI**: Body Mass Index (BMI)
