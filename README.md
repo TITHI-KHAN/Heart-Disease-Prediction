@@ -41,7 +41,3 @@ The dataset contains 18 variables (9 booleans, 5 strings and 4 decimals). In mac
 17. **Kidney Disease**: Not including kidney stones, bladder infection or incontinence, were you ever told you had kidney disease?
 
 18. **SkinCancer**: (Ever told) (you had) skin cancer?
-
-**You Could Follow This Supporting File:**
-
-http://dspace.bracu.ac.bd/xmlui/bitstream/handle/10361/13779/15201001%2C%2015201002%2C%2015201006%2C%2015201025_CSE.pdf?sequence=1&isAllowed=y
