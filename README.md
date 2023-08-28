@@ -20,7 +20,7 @@ The dataset contains 18 variables (9 booleans, 5 strings and 4 decimals). In mac
 
 7. **MentalHealth**: Thinking about your mental health, for how many days during the past 30 days was your mental health not good?
 
-8.**DiffWalking**: Do you have serious difficulty walking or climbing stairs?
+8. **DiffWalking**: Do you have serious difficulty walking or climbing stairs?
 
 9. **Sex**: Are you male or female?
 
