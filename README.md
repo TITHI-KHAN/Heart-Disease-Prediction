@@ -12,7 +12,7 @@ The dataset contains 18 variables (9 booleans, 5 strings and 4 decimals). In mac
 
 3. **Smoking**: Have you smoked at least 100 cigarettes in your entire life? [Note: 5 packs = 100 cigarettes]
 
-4.**AlcoholDrinking**: Heavy drinkers (adult men having more than 14 drinks per week and adult women having more than 7 drinks per week
+4. **AlcoholDrinking**: Heavy drinkers (adult men having more than 14 drinks per week and adult women having more than 7 drinks per week
 
 5. **Stroke**: (Ever told) (you had) a stroke?
 
